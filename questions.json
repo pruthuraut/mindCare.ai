@@ -1,0 +1,275 @@
+{
+    "questions": [
+        {
+            "question": "Feeling nervous, anxious, or on edge",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Not being able to stop or control worrying",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Worrying too much about different things",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Trouble relaxing",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Being so restless that it is hard to sit still",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Becoming easily annoyed or irritable",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Feeling afraid, as if something awful might happen",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "I have been able to laugh and see the funny side of things",
+            "options": [
+                "AS MUCH AS I ALWAYS COULD",
+                "NOT QUITE SO MUCH NOW",
+                "NEUTRAL",
+                "DEFINITELY NOT SO MUCH NOW",
+                "NOT AT ALL"
+            ]
+        },
+        {
+            "question": "I have looked forward with enjoyment to things",
+            "options": [
+                "AS MUCH AS I EVER DID",
+                "RATHER LESS THAN I USED TO",
+                "NEUTRAL",
+                "DEFINITELY LESS THAN I USED TO",
+                "HARDLY AT ALL"
+            ]
+        },
+        {
+            "question": "I have blamed myself unnecessarily when things went wrong",
+            "options": [
+                "YES, MOST OF THE TIME",
+                "YES, SOME OF THE TIME",
+                "NEUTRAL",
+                "NOT VERY OFTEN",
+                "NO, NEVER"
+            ]
+        },
+        {
+            "question": "I have been anxious or worried for no good reason",
+            "options": [
+                "NO, NOT AT ALL",
+                "HARDLY EVER",
+                "NEUTRAL",
+                "YES, SOMETIMES",
+                "YES, VERY OFTEN"
+            ]
+        },
+        {
+            "question": "I have felt scared or panicky for no very good reason",
+            "options": [
+                "YES, QUITE A LOT",
+                "YES, SOMETIMES",
+                "NEUTRAL",
+                "NO, NOT MUCH",
+                "NO, NOT AT ALL"
+            ]
+        },
+        {
+            "question": "Things have been getting on top of me",
+            "options": [
+                "YES, MOST OF THE TIME I HAVEN'T BEEN ABLE TO COPE AT ALL",
+                "YES, SOMETIMES I HAVEN'T BEEN COPING AS WELL AS USUAL",
+                "NEUTRAL",
+                "NO, MOST OF THE TIME I HAVE COPED QUITE WELL",
+                "NO, I HAVE BEEN COPING AS WELL AS EVER"
+            ]
+        },
+        {
+            "question": "I have been so unhappy that I have had difficulty sleeping",
+            "options": [
+                "YES, MOST OF THE TIME",
+                "YES, SOMETIMES",
+                "NEUTRAL",
+                "NOT VERY OFTEN",
+                "NO, NOT AT ALL"
+            ]
+        },
+        {
+            "question": "I have felt sad or miserable",
+            "options": [
+                "YES, MOST OF THE TIME",
+                "YES, QUITE OFTEN",
+                "NEUTRAL",
+                "NOT VERY OFTEN",
+                "NO, NOT AT ALL"
+            ]
+        },
+        {
+            "question": "I have been so unhappy that I have been crying",
+            "options": [
+                "YES, MOST OF THE TIME",
+                "YES, QUITE OFTEN",
+                "NEUTRAL",
+                "ONLY OCCASIONALLY",
+                "NO, NEVER"
+            ]
+        },
+        {
+            "question": "The thought of harming myself has occurred to me",
+            "options": [
+                "YES, QUITE OFTEN",
+                "SOMETIMES",
+                "NEUTRAL",
+                "HARDLY EVER",
+                "NEVER"
+            ]
+        },
+        {
+            "question": "Little interest or pleasure in doing things",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Feeling down, depressed, or hopeless",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Trouble falling or staying asleep, or sleeping too much",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Feeling tired or having little energy",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Poor appetite or overeating",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Feeling bad about yourself - or that you are a failure or have let yourself or your family down",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Trouble concentrating on things, such as reading the newspaper or watching television",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Moving or speaking so slowly that other people could have noticed Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "Thoughts that you would be better off dead, or of hurting yourself",
+            "options": [
+                "NOT AT ALL",
+                "SEVERAL DAYS",
+                "NEUTRAL",
+                "MORE THAN HALF THE DAYS",
+                "NEARLY EVERY DAY"
+            ]
+        },
+        {
+            "question": "If you checked off any problems, how difficult have these problems made it for you at work, home, or with other people?",
+            "options": [
+                "NOT DIFFICULT AT ALL",
+                "SOMEWHAT DIFFICULT",
+                "NEUTRAL",
+                "VERY DIFFICULT",
+                "EXTREMELY DIFFICULT"
+            ]
+        }
+    ]
+}
+
